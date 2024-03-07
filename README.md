@@ -3,7 +3,6 @@
 - 👀 I’m interested in computer architecture!
 - 🌱 I’m currently learning computer engineering
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I have a smartphone collection of over 50
 
 <!---
