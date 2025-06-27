@@ -1,7 +1,7 @@
 #Bio
 - 👋 Hi, I’m Byron 
 - 👀 I’m interested in computer architecture!
-- 🌱 I’m currently majoring in computer engineering
+- 🌱 I’m pursing my Master's in electrical and computer engineering
 - 📫 How to reach me ...
 - ⚡ Fun fact: I have a smartphone collection of over 50
 
